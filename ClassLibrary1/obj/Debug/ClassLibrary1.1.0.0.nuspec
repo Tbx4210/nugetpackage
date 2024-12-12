@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClassLibrary1</id>
+    <version>1.0.0</version>
+    <title>text</title>
+    <authors>Athul mathew</authors>
+    <description>pass text to console</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\athul\source\repos\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll" target="lib\net8.0\ClassLibrary1.dll" />
+  </files>
+</package>
